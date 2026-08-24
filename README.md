@@ -13,7 +13,7 @@ The project demonstrates full MLOps principles including:
 
 ## Live Demo
 
-Try the application here: [https://sleepdisruption-6tmjvvykhxZjwzwnisbwnq.streamlit.app/](https://sleepdisruption-6tmjvvykhxZjwzwnisbwnq.streamlit.app/)
+Try the application here: [[https://sleepdisruption-6tmjvvykhxZjwzwnisbwnq.streamlit.app/](https://sleepdisruption-6tmjvvykhxZjwzwnisbwnq.streamlit.app/](https://sleepdisruption-6tmjvvykhzxjwzwnisbwnq.streamlit.app/))
 
 ## Problem Statement
 
